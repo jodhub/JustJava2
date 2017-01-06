@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
      *"return total price
      *
      */
-    //This is a fucking test
+    //This is a fucking test FOR THE TEST BRANCH
     private int calculatePrice(boolean addWhippedCream, boolean addChocolate) {
         int basePrice =  5;
         if (addWhippedCream) {
