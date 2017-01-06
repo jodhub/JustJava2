@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
      *"return total price
      *
      */
-    //This is a test
+    //This is a test, I change some lines
     private int calculatePrice(boolean addWhippedCream, boolean addChocolate) {
         int basePrice =  5;
         if (addWhippedCream) {
